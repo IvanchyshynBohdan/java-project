@@ -1,0 +1,384 @@
+2020-06-30 17:42:36 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 17:42:36 [main] INFO  com.library.dao.MemberDao - Member with id(1) successfully deleted
+2020-06-30 17:42:36 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 17:45:18 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 17:45:18 [main] INFO  com.library.dao.MemberDao - Member with id(1) successfully deleted
+2020-06-30 17:45:18 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 17:45:18 [main] ERROR com.library.dao.MemberDao - Member can't be deleted
+2020-06-30 17:45:18 [main] INFO  com.library.dao.MemberDao - Member Koblyk successfully deleted
+2020-06-30 17:46:10 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 17:46:10 [main] INFO  com.library.dao.MemberDao - Member with id(1) successfully deleted
+2020-06-30 17:46:10 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 17:46:10 [main] INFO  com.library.dao.MemberDao - Member Koblyk successfully deleted
+2020-06-30 17:46:35 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 17:46:35 [main] INFO  com.library.dao.MemberDao - Member with id(1) successfully deleted
+2020-06-30 17:46:35 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 17:46:35 [main] INFO  com.library.dao.MemberDao - Member Koblyk successfully deleted
+2020-06-30 17:46:35 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:17:44 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:17:44 [main] INFO  com.library.dao.MemberDao - Member with id(1) successfully deleted
+2020-06-30 18:17:44 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:17:44 [main] INFO  com.library.dao.MemberDao - Member Koblyk successfully deleted
+2020-06-30 18:17:44 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:17:44 [main] INFO  com.library.dao.MemberDao - Member Ivan was created
+2020-06-30 18:17:44 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:18:29 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:18:29 [main] INFO  com.library.dao.MemberDao - Member with id(1) successfully deleted
+2020-06-30 18:18:29 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:18:29 [main] INFO  com.library.dao.MemberDao - Member Koblyk successfully deleted
+2020-06-30 18:18:29 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:18:29 [main] INFO  com.library.dao.MemberDao - Member Ivan was created
+2020-06-30 18:18:29 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:19:17 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:26:30 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:26:30 [main] INFO  com.library.dao.MemberDao - Member with id(1) successfully deleted
+2020-06-30 18:26:30 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:30:01 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:30:01 [main] INFO  com.library.dao.MemberDao - Member Ivanchyshyn successfully deleted
+2020-06-30 18:30:01 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:45:37 [main] INFO  com.library.dao.MemberDao - Member Ivan was created
+2020-06-30 18:45:37 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:51:15 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:51:15 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:51:15 [main] INFO  com.library.dao.MemberDao - Member with id(1) successfully deleted
+2020-06-30 18:51:15 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:51:15 [main] INFO  com.library.dao.MemberDao - Member Ivan was created
+2020-06-30 18:51:15 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:51:15 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:55:06 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:55:06 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:55:06 [main] INFO  com.library.dao.MemberDao - Member with id(1) successfully deleted
+2020-06-30 18:55:06 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:55:06 [main] INFO  com.library.dao.MemberDao - Member Ivan was created
+2020-06-30 18:55:06 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:55:06 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:56:07 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:56:07 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:56:07 [main] INFO  com.library.dao.MemberDao - Member with id(1) successfully deleted
+2020-06-30 18:56:07 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:56:07 [main] INFO  com.library.dao.MemberDao - Member Ivan was created
+2020-06-30 18:56:07 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:56:07 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:57:14 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:57:14 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:57:14 [main] INFO  com.library.dao.MemberDao - Member with id(1) successfully deleted
+2020-06-30 18:57:14 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:57:14 [main] INFO  com.library.dao.MemberDao - Member Ivan was created
+2020-06-30 18:57:14 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:57:14 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:59:03 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:59:03 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:59:03 [main] INFO  com.library.dao.MemberDao - Member with id(1) successfully deleted
+2020-06-30 18:59:03 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:59:03 [main] INFO  com.library.dao.MemberDao - Member Ivan was created
+2020-06-30 18:59:03 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:59:03 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:59:58 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:59:58 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:59:58 [main] INFO  com.library.dao.MemberDao - Member with id(1) successfully deleted
+2020-06-30 18:59:58 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:59:58 [main] INFO  com.library.dao.MemberDao - Member Ivan was created
+2020-06-30 18:59:58 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 18:59:58 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 19:00:45 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 19:00:45 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 19:00:45 [main] INFO  com.library.dao.MemberDao - Member with id(1) successfully deleted
+2020-06-30 19:00:45 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 19:00:45 [main] INFO  com.library.dao.MemberDao - Member Ivan was created
+2020-06-30 19:00:45 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 19:00:45 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 19:01:25 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 19:01:25 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 19:01:25 [main] INFO  com.library.dao.MemberDao - Member with id(1) successfully deleted
+2020-06-30 19:01:25 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 19:01:25 [main] INFO  com.library.dao.MemberDao - Member Ivan was created
+2020-06-30 19:01:25 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 19:01:25 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 19:01:25 [main] INFO  com.library.dao.MemberDao - Member Koblyk successfully deleted
+2020-06-30 19:01:25 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 19:02:01 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 19:02:01 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 19:02:01 [main] INFO  com.library.dao.MemberDao - Member with id(1) successfully deleted
+2020-06-30 19:02:01 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 19:02:01 [main] INFO  com.library.dao.MemberDao - Member Ivan was created
+2020-06-30 19:02:01 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 19:02:01 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 19:02:01 [main] INFO  com.library.dao.MemberDao - Member Koblyk successfully deleted
+2020-06-30 19:02:01 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 19:03:42 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 19:03:42 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 19:03:42 [main] INFO  com.library.dao.MemberDao - Member with id(1) successfully deleted
+2020-06-30 19:03:42 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 19:03:42 [main] INFO  com.library.dao.MemberDao - Member Ivan was created
+2020-06-30 19:03:42 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 19:03:42 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 19:03:42 [main] INFO  com.library.dao.MemberDao - Member Koblyk successfully deleted
+2020-06-30 19:03:42 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 19:43:34 [main] ERROR com.library.dao.BookDao - Message: Column "BOOKS.ID" not found; SQL statement:
+SELECT Code, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id  [42122-197]
+2020-06-30 19:43:34 [main] ERROR com.library.dao.BookDao - Message: Column "BOOKS.ID" not found; SQL statement:
+SELECT Code, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [42122-197]
+2020-06-30 19:43:34 [main] ERROR com.library.dao.BookDao - Message: Column "BOOKS.ID" not found; SQL statement:
+SELECT Code, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id  [42122-197]
+2020-06-30 19:43:34 [main] ERROR com.library.dao.BookDao - Book can't be deleted
+2020-06-30 19:43:34 [main] ERROR com.library.dao.BookDao - Message: Column "BOOKS.ID" not found; SQL statement:
+SELECT Code, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id  [42122-197]
+2020-06-30 19:43:34 [main] ERROR com.library.dao.BookDao - Message: Column "BOOKS.ID" not found; SQL statement:
+SELECT Code, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [42122-197]
+2020-06-30 19:43:34 [main] ERROR com.library.dao.BookDao - Message: Column count does not match; SQL statement:
+INSERT INTO Books (Title, Author, Id_category, Id_publisher, Price) VALUES (?,?,?,?,?,?) [21002-197]
+2020-06-30 19:43:34 [main] ERROR com.library.dao.BookDao - Message: Column "BOOKS.ID" not found; SQL statement:
+SELECT Code, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id  [42122-197]
+2020-06-30 19:43:34 [main] ERROR com.library.dao.BookDao - Message: Column "BOOKS.ID" not found; SQL statement:
+SELECT Code, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id  [42122-197]
+2020-06-30 19:43:34 [main] ERROR com.library.dao.BookDao - Message: Column "BOOKS.ID" not found; SQL statement:
+SELECT Code, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [42122-197]
+2020-06-30 19:43:34 [main] ERROR com.library.dao.BookDao - Message: Column "BOOKS.ID" not found; SQL statement:
+SELECT Code, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [42122-197]
+2020-06-30 20:19:19 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id  [90059-197]
+2020-06-30 20:19:19 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 20:19:19 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id  [90059-197]
+2020-06-30 20:19:19 [main] ERROR com.library.dao.BookDao - Book can't be deleted
+2020-06-30 20:19:19 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id  [90059-197]
+2020-06-30 20:19:19 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 20:19:19 [main] ERROR com.library.dao.BookDao - Message: Column count does not match; SQL statement:
+INSERT INTO Books (Title, Author, Id_category, Id_publisher, Price) VALUES (?,?,?,?,?,?) [21002-197]
+2020-06-30 20:19:19 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id  [90059-197]
+2020-06-30 20:19:19 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id  [90059-197]
+2020-06-30 20:19:19 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 20:19:19 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 20:20:13 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id  [90059-197]
+2020-06-30 20:20:13 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 20:20:13 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id  [90059-197]
+2020-06-30 20:20:13 [main] ERROR com.library.dao.BookDao - Book can't be deleted
+2020-06-30 20:20:13 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id  [90059-197]
+2020-06-30 20:20:13 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 20:20:13 [main] ERROR com.library.dao.BookDao - Message: Column count does not match; SQL statement:
+INSERT INTO Books (Title, Author, Id_category, Id_publisher, Price) VALUES (?,?,?,?,?,?) [21002-197]
+2020-06-30 20:20:13 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id  [90059-197]
+2020-06-30 20:20:13 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id  [90059-197]
+2020-06-30 20:20:13 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 20:20:13 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 20:23:37 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 20:23:37 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 20:23:37 [main] INFO  com.library.dao.MemberDao - Member with id(1) successfully deleted
+2020-06-30 20:23:37 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 20:23:37 [main] INFO  com.library.dao.MemberDao - Member Ivan was created
+2020-06-30 20:23:37 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 20:23:37 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 20:23:37 [main] INFO  com.library.dao.MemberDao - Member Koblyk successfully deleted
+2020-06-30 20:23:37 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-06-30 20:23:49 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id  [90059-197]
+2020-06-30 20:23:49 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 20:23:49 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id  [90059-197]
+2020-06-30 20:23:49 [main] ERROR com.library.dao.BookDao - Book can't be deleted
+2020-06-30 20:23:49 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id  [90059-197]
+2020-06-30 20:23:49 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 20:23:49 [main] ERROR com.library.dao.BookDao - Message: Column count does not match; SQL statement:
+INSERT INTO Books (Title, Author, Id_category, Id_publisher, Price) VALUES (?,?,?,?,?,?) [21002-197]
+2020-06-30 20:23:49 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id  [90059-197]
+2020-06-30 20:23:49 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id  [90059-197]
+2020-06-30 20:23:49 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 20:23:49 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 20:26:40 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id;  [90059-197]
+2020-06-30 20:26:40 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 20:26:40 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id;  [90059-197]
+2020-06-30 20:26:40 [main] ERROR com.library.dao.BookDao - Book can't be deleted
+2020-06-30 20:26:40 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id;  [90059-197]
+2020-06-30 20:26:40 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 20:26:40 [main] ERROR com.library.dao.BookDao - Message: Column count does not match; SQL statement:
+INSERT INTO Books (Title, Author, Id_category, Id_publisher, Price) VALUES (?,?,?,?,?,?) [21002-197]
+2020-06-30 20:26:40 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id;  [90059-197]
+2020-06-30 20:26:40 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id;  [90059-197]
+2020-06-30 20:26:40 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 20:26:40 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 20:29:19 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id;  [90059-197]
+2020-06-30 20:29:19 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 20:29:19 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id;  [90059-197]
+2020-06-30 20:29:19 [main] ERROR com.library.dao.BookDao - Book can't be deleted
+2020-06-30 20:29:19 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id;  [90059-197]
+2020-06-30 20:29:19 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 20:29:19 [main] ERROR com.library.dao.BookDao - Message: Column count does not match; SQL statement:
+INSERT INTO Books (Title, Author, Id_category, Id_publisher, Price) VALUES (?,?,?,?,?,?) [21002-197]
+2020-06-30 20:29:19 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id;  [90059-197]
+2020-06-30 20:29:19 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id;  [90059-197]
+2020-06-30 20:29:19 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 20:29:19 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 20:31:46 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Books.Id = Publisher.Id JOIN Category ON Books.Id = Category.Id  [90059-197]
+2020-06-30 20:31:46 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 20:31:46 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Books.Id = Publisher.Id JOIN Category ON Books.Id = Category.Id  [90059-197]
+2020-06-30 20:31:46 [main] ERROR com.library.dao.BookDao - Book can't be deleted
+2020-06-30 20:31:46 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Books.Id = Publisher.Id JOIN Category ON Books.Id = Category.Id  [90059-197]
+2020-06-30 20:31:46 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 20:31:46 [main] ERROR com.library.dao.BookDao - Message: Column count does not match; SQL statement:
+INSERT INTO Books (Title, Author, Id_category, Id_publisher, Price) VALUES (?,?,?,?,?,?) [21002-197]
+2020-06-30 20:31:46 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Books.Id = Publisher.Id JOIN Category ON Books.Id = Category.Id  [90059-197]
+2020-06-30 20:31:46 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Books.Id = Publisher.Id JOIN Category ON Books.Id = Category.Id  [90059-197]
+2020-06-30 20:31:46 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 20:31:46 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 20:32:50 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Books.Id = Publisher.Id JOIN Category ON Books.Id = Category.Id  [90059-197]
+2020-06-30 20:32:50 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 20:32:50 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Books.Id = Publisher.Id JOIN Category ON Books.Id = Category.Id  [90059-197]
+2020-06-30 20:32:50 [main] ERROR com.library.dao.BookDao - Book can't be deleted
+2020-06-30 20:32:50 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Books.Id = Publisher.Id JOIN Category ON Books.Id = Category.Id  [90059-197]
+2020-06-30 20:32:50 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 20:32:50 [main] ERROR com.library.dao.BookDao - Message: Column count does not match; SQL statement:
+INSERT INTO Books (Title, Author, Id_category, Id_publisher, Price) VALUES (?,?,?,?,?,?) [21002-197]
+2020-06-30 20:32:50 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Books.Id = Publisher.Id JOIN Category ON Books.Id = Category.Id  [90059-197]
+2020-06-30 20:32:50 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Books.Id = Publisher.Id JOIN Category ON Books.Id = Category.Id  [90059-197]
+2020-06-30 20:32:50 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 20:32:50 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 20:35:53 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Books.Id = Publisher.Id JOIN Category ON Books.Id = Category.Id  [90059-197]
+2020-06-30 20:35:53 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 20:35:53 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Books.Id = Publisher.Id JOIN Category ON Books.Id = Category.Id  [90059-197]
+2020-06-30 20:35:53 [main] ERROR com.library.dao.BookDao - Book can't be deleted
+2020-06-30 20:35:53 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Books.Id = Publisher.Id JOIN Category ON Books.Id = Category.Id  [90059-197]
+2020-06-30 20:35:53 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 20:35:53 [main] ERROR com.library.dao.BookDao - Message: Column count does not match; SQL statement:
+INSERT INTO Books (Title, Author, Id_category, Id_publisher, Price) VALUES (?,?,?,?,?,?) [21002-197]
+2020-06-30 20:35:53 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Books.Id = Publisher.Id JOIN Category ON Books.Id = Category.Id  [90059-197]
+2020-06-30 20:35:53 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Books.Id = Publisher.Id JOIN Category ON Books.Id = Category.Id  [90059-197]
+2020-06-30 20:35:53 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 20:35:53 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 20:36:17 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Books.Id = Publisher.Id JOIN Category ON Books.Id = Category.Id  [90059-197]
+2020-06-30 20:38:35 [main] ERROR com.library.dao.BookDao - Message: Column "Id_category" not found [42122-197]
+2020-06-30 20:39:54 [main] ERROR com.library.dao.BookDao - Message: Column "Id_category" not found [42122-197]
+2020-06-30 20:39:54 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 20:39:54 [main] ERROR com.library.dao.BookDao - Message: Column "Id_category" not found [42122-197]
+2020-06-30 20:39:54 [main] ERROR com.library.dao.BookDao - Book can't be deleted
+2020-06-30 20:39:54 [main] ERROR com.library.dao.BookDao - Message: Column "Id_category" not found [42122-197]
+2020-06-30 20:39:54 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 20:39:54 [main] ERROR com.library.dao.BookDao - Message: Column count does not match; SQL statement:
+INSERT INTO Books (Title, Author, Id_category, Id_publisher, Price) VALUES (?,?,?,?,?,?) [21002-197]
+2020-06-30 20:39:54 [main] ERROR com.library.dao.BookDao - Message: Column "Id_category" not found [42122-197]
+2020-06-30 20:39:54 [main] ERROR com.library.dao.BookDao - Message: Column "Id_category" not found [42122-197]
+2020-06-30 20:39:54 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 20:39:54 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 20:40:57 [main] ERROR com.library.dao.BookDao - Message: Column "Id_category" not found [42122-197]
+2020-06-30 20:46:22 [main] ERROR com.library.dao.BookDao - Message: Column "Id_category" not found [42122-197]
+2020-06-30 20:46:22 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 20:46:22 [main] ERROR com.library.dao.BookDao - Message: Column "Id_category" not found [42122-197]
+2020-06-30 20:46:22 [main] ERROR com.library.dao.BookDao - Book can't be deleted
+2020-06-30 20:46:22 [main] ERROR com.library.dao.BookDao - Message: Column "Id_category" not found [42122-197]
+2020-06-30 20:46:22 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 20:46:22 [main] ERROR com.library.dao.BookDao - Message: Column count does not match; SQL statement:
+INSERT INTO Books (Title, Author, Id_category, Id_publisher, Price) VALUES (?,?,?,?,?,?) [21002-197]
+2020-06-30 20:46:22 [main] ERROR com.library.dao.BookDao - Message: Column "Id_category" not found [42122-197]
+2020-06-30 20:46:22 [main] ERROR com.library.dao.BookDao - Message: Column "Id_category" not found [42122-197]
+2020-06-30 20:46:22 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 20:46:22 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 20:57:45 [main] ERROR com.library.dao.BookDao - Message: Column "Id_category" not found [42122-197]
+2020-06-30 21:02:20 [main] ERROR com.library.dao.BookDao - Message: Column "Id_category" not found [42122-197]
+2020-06-30 21:11:06 [main] ERROR com.library.dao.BookDao - Message: Column "Id_category" not found [42122-197]
+2020-06-30 21:14:05 [main] ERROR com.library.dao.BookDao - Message: Column "Id_category" not found [42122-197]
+2020-06-30 21:14:52 [main] ERROR com.library.dao.BookDao - Message: Column "Id_category" not found [42122-197]
+2020-06-30 21:30:56 [main] ERROR com.library.dao.BookDao - Message: Column "Id_category" not found [42122-197]
+2020-06-30 21:31:54 [main] ERROR com.library.dao.BookDao - Message: Column "Id_category" not found [42122-197]
+2020-06-30 21:36:21 [main] ERROR com.library.dao.BookDao - Message: Column "BOOKS.ID" not found; SQL statement:
+SELECT Books.Id, Title, Author, c.Name, p.Name, Price FROM Books b JOIN Publisher p ON p.Id = b.Id_publisher JOIN Category c ON c.Id = b.Id_category  [42122-197]
+2020-06-30 21:36:21 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 21:36:21 [main] ERROR com.library.dao.BookDao - Message: Column "BOOKS.ID" not found; SQL statement:
+SELECT Books.Id, Title, Author, c.Name, p.Name, Price FROM Books b JOIN Publisher p ON p.Id = b.Id_publisher JOIN Category c ON c.Id = b.Id_category  [42122-197]
+2020-06-30 21:36:21 [main] ERROR com.library.dao.BookDao - Book can't be deleted
+2020-06-30 21:36:21 [main] ERROR com.library.dao.BookDao - Message: Column "BOOKS.ID" not found; SQL statement:
+SELECT Books.Id, Title, Author, c.Name, p.Name, Price FROM Books b JOIN Publisher p ON p.Id = b.Id_publisher JOIN Category c ON c.Id = b.Id_category  [42122-197]
+2020-06-30 21:36:21 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 21:36:21 [main] ERROR com.library.dao.BookDao - Message: Column count does not match; SQL statement:
+INSERT INTO Books (Title, Author, Id_category, Id_publisher, Price) VALUES (?,?,?,?,?,?) [21002-197]
+2020-06-30 21:36:21 [main] ERROR com.library.dao.BookDao - Message: Column "BOOKS.ID" not found; SQL statement:
+SELECT Books.Id, Title, Author, c.Name, p.Name, Price FROM Books b JOIN Publisher p ON p.Id = b.Id_publisher JOIN Category c ON c.Id = b.Id_category  [42122-197]
+2020-06-30 21:36:21 [main] ERROR com.library.dao.BookDao - Message: Column "BOOKS.ID" not found; SQL statement:
+SELECT Books.Id, Title, Author, c.Name, p.Name, Price FROM Books b JOIN Publisher p ON p.Id = b.Id_publisher JOIN Category c ON c.Id = b.Id_category  [42122-197]
+2020-06-30 21:36:21 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 21:36:21 [main] ERROR com.library.dao.BookDao - Message: Ambiguous column name "ID"; SQL statement:
+SELECT Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books JOIN Publisher ON Publisher.Id = Books.Id JOIN Category ON Category.Id = Books.Id WHERE Books.Id = ? [90059-197]
+2020-06-30 21:36:31 [main] ERROR com.library.dao.BookDao - Message: Column "BOOKS.ID" not found; SQL statement:
+SELECT Books.Id, Title, Author, c.Name, p.Name, Price FROM Books b JOIN Publisher p ON p.Id = b.Id_publisher JOIN Category c ON c.Id = b.Id_category  [42122-197]
+2020-06-30 21:36:55 [main] ERROR com.library.dao.BookDao - Message: Column "Id_category" not found [42122-197]
+2020-06-30 22:52:01 [main] ERROR com.library.dao.BookDao - Message: Column "Id_category" not found [42122-197]
+2020-06-30 22:52:49 [main] ERROR com.library.dao.BookDao - Message: Column "Id_category" not found [42122-197]
+2020-06-30 22:54:59 [main] INFO  com.library.dao.BookDao - Find all books successfully done
