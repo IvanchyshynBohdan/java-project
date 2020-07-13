@@ -1,7 +1,6 @@
 package com.library.dao;
 
 import com.library.model.Librarian;
-import com.library.model.Member;
 import com.library.utils.ConnectionPool;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -146,6 +145,29 @@ public class LibrarianDao implements Dao<Librarian> {
             log.error("Message: {}", e.getMessage());
         }
         return false;
+    }
+
+    public Librarian validate(String email, String password) {
+        String query = "SELECT * FROM Librarian WHERE Email = ? AND Password = ?";
+        try (Connection connection = ConnectionPool.getInstance().getConnection();
+             PreparedStatement preparedStatement = connection.prepareStatement(query)) {
+            preparedStatement.setString(1, email);
+            preparedStatement.setString(2, password);
+            ResultSet resultSet = preparedStatement.executeQuery();
+            if (resultSet.next()) {
+                Librarian librarian = new Librarian();
+                librarian.setId(resultSet.getInt("Id"));
+                librarian.setFirstName(resultSet.getString("Name"));
+                librarian.setLastName(resultSet.getString("Surname"));
+                librarian.setPassword(password);
+                librarian.setEmail(email);
+                librarian.setExperience(resultSet.getInt("Experience"));
+                return librarian;
+            }
+        } catch (SQLException e) {
+            log.error("Message: {}", e.getMessage());
+        }
+        return null;
     }
 
     @Override

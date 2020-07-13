@@ -4,32 +4,25 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Login</title>
+    <title>Library Website</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
 </head>
 <body>
-
-<h3>Library management</h3>
-<h3>Login</h3>
-<form method="POST" action="">
-    <table border="0">
-        <tr>
-            <td>User Name</td>
-            <td><input type="text" name="userName" value=""/></td>
-        </tr>
-        <tr>
-            <td>Password</td>
-            <td><input type="text" name="password" value=""/></td>
-        </tr>
-
-        <tr>
-            <td colspan="2">
-                <input type="submit" value="Submit"/>
-                <a href="">Cancel</a>
-            </td>
-        </tr>
-    </table>
-</form>
-
-
+<nav>
+    <ul class="nav justify-content-center" style="padding: 10px 0 10px 0">
+        <li class="nav-item">
+            <a class="nav-link" href="${pageContext.servletContext.contextPath}/login?state=memberLogin">User Login</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="${pageContext.servletContext.contextPath}/login?state=librarianLogin">Librarian
+                Login</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="${pageContext.servletContext.contextPath}/member?state=memberRegister">
+                Register</a>
+        </li>
+    </ul>
+</nav>
+<h1 style="text-align: center; margin-top: 20px">Welcome to Library Website!</h1>
 </body>
 </html>

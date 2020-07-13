@@ -135,7 +135,7 @@ public class MemberDao implements Dao<Member> {
             preparedStatement.setString(5, member.getEmail());
             preparedStatement.setString(6, member.getCity());
             preparedStatement.setInt(7, member.getId());
-            if (preparedStatement.executeUpdate() == 0){
+            if (preparedStatement.executeUpdate() == 0) {
                 log.error("Member can't be updated");
             }
             log.info("Member " + member.getLastName() + " was updated");
@@ -146,9 +146,33 @@ public class MemberDao implements Dao<Member> {
         return false;
     }
 
+    public Member validate(String email, String password) {
+        String query = "SELECT * FROM Member WHERE Email = ? AND Password = ?";
+        try (Connection connection = ConnectionPool.getInstance().getConnection();
+             PreparedStatement preparedStatement = connection.prepareStatement(query)) {
+            preparedStatement.setString(1, email);
+            preparedStatement.setString(2, password);
+            ResultSet resultSet = preparedStatement.executeQuery();
+            if (resultSet.next()) {
+                Member member = new Member();
+                member.setId(resultSet.getInt("Id"));
+                member.setFirstName(resultSet.getString("Name"));
+                member.setLastName(resultSet.getString("Surname"));
+                member.setPassword(password);
+                member.setEmail(email);
+                member.setCity(resultSet.getString("City"));
+                return member;
+            }
+        } catch (SQLException e) {
+            log.error("Message: {}", e.getMessage());
+        }
+        return null;
+    }
+
     @Override
     public Member create(Member member) {
-        String InsertSql = "INSERT INTO Member (Name, Surname, Password, Phone, Email, City) VALUES (?,?,?,?,?,?)";
+        String InsertSql = "INSERT INTO Member (Name, Surname, Password, Phone, Email, City) " +
+                "VALUES (?,?,?,?,?,?)";
         try (Connection connection = ConnectionPool.getInstance().getConnection();
              PreparedStatement preparedStatement = connection.prepareStatement(InsertSql)) {
             preparedStatement.setString(1, member.getFirstName());
@@ -157,13 +181,14 @@ public class MemberDao implements Dao<Member> {
             preparedStatement.setString(4, member.getPhone());
             preparedStatement.setString(5, member.getEmail());
             preparedStatement.setString(6, member.getCity());
-            if(preparedStatement.executeUpdate() == 0){
+            if (preparedStatement.executeUpdate() == 0) {
                 log.error("Can't create member");
+                return null;
             }
             log.info("Member " + member.getLastName() + " was created");
         } catch (SQLException e) {
             log.error("Message: {}", e.getMessage());
         }
-        return null;
+        return member;
     }
 }

@@ -1,0 +1,8 @@
+2020-07-08 21:33:06 [main] ERROR com.library.dao.IssuesDao - Message: Column "MEMBER_ID" not found; SQL statement:
+SELECT Issues.Id, Books.Title, Member.Id as Member_id, Member.Surname, Librarian.Surname, Taken_date, Brought_date FROM Issues JOIN Books ON Books.Id = Issues.Id_book JOIN Member ON Member_id  = Issues.Id_member JOIN Librarian ON Librarian.Id = Issues.Id_librarian WHERE Member.Id = ? [42122-197]
+2020-07-08 21:33:24 [main] ERROR com.library.dao.IssuesDao - Message: Column "MEMBER_ID" not found; SQL statement:
+SELECT Issues.Id, Books.Title, Member.Id as Member_id, Member.Surname, Librarian.Surname, Taken_date, Brought_date FROM Issues JOIN Books ON Books.Id = Issues.Id_book JOIN Member ON Member_id  = Issues.Id_member JOIN Librarian ON Librarian.Id = Issues.Id_librarian WHERE Member.Id = ? [42122-197]
+2020-07-08 21:50:49 [main] ERROR com.library.dao.IssuesDao - Message: Column "Id_book" not found [42122-197]
+2020-07-08 21:51:33 [main] ERROR com.library.dao.IssuesDao - Message: Column "Id_member" not found [42122-197]
+2020-07-08 22:01:50 [main] ERROR com.library.dao.IssuesDao - Message: Column "Imember" not found [42122-197]
+2020-07-08 22:08:58 [main] ERROR com.library.dao.IssuesDao - Message: Column " Librarian_surname" not found [42122-197]

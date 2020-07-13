@@ -6,7 +6,6 @@ public class Issues {
     private int id;
     private Books books;
     private Member member;
-    private Librarian librarian;
     private Date takenDate;
     private Date broughtDate;
 
@@ -14,11 +13,10 @@ public class Issues {
 
     }
 
-    public Issues(int id, Books books, Member member, Librarian librarian, Date takenDate, Date broughtDate) {
+    public Issues(int id, Books books, Member member, Date takenDate, Date broughtDate) {
         this.id = id;
         this.books = books;
         this.member = member;
-        this.librarian = librarian;
         this.takenDate = takenDate;
         this.broughtDate = broughtDate;
     }
@@ -47,14 +45,6 @@ public class Issues {
         this.member = member;
     }
 
-    public Librarian getLibrarian() {
-        return librarian;
-    }
-
-    public void setLibrarian(Librarian librarian) {
-        this.librarian = librarian;
-    }
-
     public Date getTakenDate() {
         return takenDate;
     }
@@ -70,4 +60,5 @@ public class Issues {
     public void setBroughtDate(Date broughtDate) {
         this.broughtDate = broughtDate;
     }
+
 }

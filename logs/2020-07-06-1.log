@@ -1,0 +1,11 @@
+2020-07-06 14:09:01 [main] ERROR com.library.dao.MemberDao - Message: NULL not allowed for column "USERNAME"; SQL statement:
+INSERT INTO Member (Name, Surname, Password, Phone, Email, City) VALUES (?,?,?,?,?,?) [23502-197]
+2020-07-06 14:09:01 [main] ERROR com.library.dao.MemberDao - Message: Invalid value "2" for parameter "parameterIndex" [90008-197]
+2020-07-06 14:22:44 [main] ERROR com.library.dao.MemberDao - Message: NULL not allowed for column "USERNAME"; SQL statement:
+INSERT INTO Member (Name, Surname, Password, Phone, Email, City) VALUES (?,?,?,?,?,?) [23502-197]
+2020-07-06 14:31:39 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-07-06 14:32:31 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-07-06 14:33:18 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-07-06 14:34:27 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-07-06 14:37:52 [main] INFO  com.library.dao.MemberDao - Find all members successfully done
+2020-07-06 14:44:07 [main] INFO  com.library.dao.MemberDao - Find all members successfully done

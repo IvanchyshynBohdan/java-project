@@ -23,7 +23,8 @@ public class BookDao implements Dao<Books> {
     @Override
     public List<Books> findAll() {
         List<Books> bookList = new ArrayList<>();
-        String query = "SELECT Books.Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books " +
+        String query = "SELECT Books.Id, Title, Author, Books.Id_category, Category.Name as Category_name, " +
+                "Books.Id_publisher, Publisher.Name as Publisher_name, Price FROM Books " +
                 "JOIN Publisher ON Publisher.Id = Books.Id_publisher " +
                 "JOIN Category ON Category.Id = Books.Id_category ";
         try (Connection connection = ConnectionPool.getInstance().getConnection();
@@ -35,12 +36,12 @@ public class BookDao implements Dao<Books> {
                 books.setTitle(resultSet.getString("Title"));
                 books.setAuthor(resultSet.getString("Author"));
                 Category category = new Category();
-                category.setId(resultSet.getInt("Id"));
-                category.setName(resultSet.getString("Name"));
+                category.setId(resultSet.getInt("Id_category"));
+                category.setName(resultSet.getString("Category_name"));
                 books.setCategory(category);
                 Publisher publisher = new Publisher();
-                publisher.setId(resultSet.getInt("Id"));
-                publisher.setName(resultSet.getString("Name"));
+                publisher.setId(resultSet.getInt("Id_publisher"));
+                publisher.setName(resultSet.getString("Publisher_name"));
                 books.setPublisher(publisher);
                 books.setPrice(resultSet.getFloat("Price"));
                 bookList.add(books);
@@ -55,7 +56,8 @@ public class BookDao implements Dao<Books> {
 
     @Override
     public Books findById(Integer id) {
-        String query = "SELECT Books.Id, Title, Author, Category.Name, Publisher.Name, Price FROM Books " +
+        String query = "SELECT Books.Id, Title, Author, Books.Id_category, Category.Name as Category_name, " +
+                "Books.Id_publisher, Publisher.Name as Publisher_name, Price FROM Books " +
                 "JOIN Publisher ON Publisher.Id = Books.Id_publisher " +
                 "JOIN Category ON Category.Id = Books.Id_category WHERE Books.Id = ?";
         try (Connection connection = ConnectionPool.getInstance().getConnection();
@@ -68,12 +70,12 @@ public class BookDao implements Dao<Books> {
                 books.setTitle(resultSet.getString("Title"));
                 books.setAuthor(resultSet.getString("Author"));
                 Category category = new Category();
-                category.setId(resultSet.getInt("Id"));
-                category.setName(resultSet.getString("Name"));
+                category.setId(resultSet.getInt("Id_category"));
+                category.setName(resultSet.getString("Category_name"));
                 books.setCategory(category);
                 Publisher publisher = new Publisher();
-                publisher.setId(resultSet.getInt("Id"));
-                publisher.setName(resultSet.getString("Name"));
+                publisher.setId(resultSet.getInt("Id_category"));
+                publisher.setName(resultSet.getString("Publisher_name"));
                 books.setPublisher(publisher);
                 books.setPrice(resultSet.getFloat("Price"));
                 return books;

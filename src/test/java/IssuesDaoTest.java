@@ -2,6 +2,7 @@ import com.library.dao.BookDao;
 import com.library.dao.IssuesDao;
 import com.library.model.*;
 import org.hamcrest.core.Is;
+import org.junit.Ignore;
 import org.junit.Test;
 
 import java.util.Date;
@@ -25,11 +26,11 @@ public class IssuesDaoTest {
         assertNotNull("Can't find issue", findIssue);
     }
 
-    @Test
+   /* @Test
     public void testFindByTakenDate() {
         Issues findIssue = issuesDao.findByTakenDate(java.sql.Date.valueOf("2020-03-25"));
         assertNotNull("Can't find issue", findIssue);
-    }
+    }*/
 
     @Test
     public void testDeleteById() {
@@ -71,7 +72,6 @@ public class IssuesDaoTest {
         issues.setMember(member);
         Librarian librarian = new Librarian();
         librarian.setId(2);
-        issues.setLibrarian(librarian);
         issues.setTakenDate(new Date());
         issues.setBroughtDate(new Date());
         List<Issues> issuesList = issuesDao.findAll();

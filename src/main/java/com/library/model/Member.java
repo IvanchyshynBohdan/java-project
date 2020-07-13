@@ -11,14 +11,6 @@ public class Member extends Person {
 
     }
 
-    public Member(int id, String password, String phone, String email, String city) {
-        this.id = id;
-        this.password = password;
-        this.phone = phone;
-        this.email = email;
-        this.city = city;
-    }
-
     public int getId() {
         return id;
     }
@@ -57,5 +49,16 @@ public class Member extends Person {
 
     public void setCity(String city) {
         this.city = city;
+    }
+
+    @Override
+    public String toString() {
+        return "Member{" +
+                "id=" + id +
+                ", password='" + password + '\'' +
+                ", phone='" + phone + '\'' +
+                ", email='" + email + '\'' +
+                ", city='" + city + '\'' +
+                '}';
     }
 }
